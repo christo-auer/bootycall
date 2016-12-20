@@ -189,3 +189,9 @@ We can avoid this problem by calling `bootycall` in working directory of the nRE
 % bcall -f "(slurp \"${PWD}/a.txt\")"
 "I am a.txt and contain some text.\n"
 ```
+
+License
+
+Copyright ©2016 Christopher Auer
+
+Distributed under the MIT License. Please see the LICENSE file at the top level of this repo.

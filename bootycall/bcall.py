@@ -1,3 +1,6 @@
+# copyright: (c) 2016 by Christopher Auer
+# license: MIT, see LICENSE for more details.
+
 import nrepl
 import argparse
 import sys
