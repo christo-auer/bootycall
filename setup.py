@@ -9,6 +9,9 @@ setup( \
     author_email = 'high.on.bonsai@googlemail.com', \
     url = 'https://github.com/christo-auer/bootycall', \
     keywords = ['nrepl', 'clojure', 'boot', 'leiningen'], \
+    install_requires=[
+          'nrepl-python-client',
+    ],
     classifiers = [], \
     entry_points = { 'console_scripts': [ 'bcall=bootycall.bcall:main' ]} 
 )
