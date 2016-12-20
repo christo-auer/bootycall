@@ -3,7 +3,7 @@ from setuptools import setup
 setup( \
     name = 'bootycall', \
     packages = ['bootycall'], \
-    version = '0.1', \
+    version = '0.1.1', \
     description = 'A shell nREPL client for boot nREPL and other nREPls.', \
     author = 'Christopher Auer', \
     author_email = 'high.on.bonsai@googlemail.com', \
